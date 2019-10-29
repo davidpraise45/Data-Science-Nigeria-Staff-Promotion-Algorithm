@@ -1,6 +1,8 @@
 # Data-Science-Nigeria-Staff-Promotion-Algorithm-
 Using machine learning make predictions if an employee is likely to be promoted or not
 
+Link to the competition ->>>>> https://www.kaggle.com/c/intercampusai2019/data
+
 CASE STUDY: YAKUB TRADING GROUP - ALGORITHMIC STAFF PROMOTION
 Abdullah’s Baba Yakub, 38, is the heir apparent to the highly revered Yakub business dynasty. The enterprise has spanned decades with vast investment interest in all the various sectors of the economy.
 
